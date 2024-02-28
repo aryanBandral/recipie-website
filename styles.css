@@ -1,0 +1,64 @@
+* {
+    /* outline: 2px solid red; */
+    background-color: #ffffff;
+}
+
+.heading1 {
+    color: rgb(0, 0, 0);
+    text-decoration: underline ;
+    text-align: center;
+    font-size: 50px;
+}
+
+.heading2 {
+    color:#000000 ;
+    text-decoration: underline ;
+    text-align:center;
+    font-size: 40px;
+}
+
+.links {
+    text-decoration: none;
+    font-size: 25px;
+    color:#000000;
+}
+
+:hover.links {
+    text-decoration: none;
+    text-decoration: underline;
+    font-size: 25px;
+    color:#056b9b;
+}
+.recipe-list {
+    text-decoration: none;
+    font-size: 25px;
+    color:#000000;
+}
+
+:hover.recipe-list {
+    text-decoration: none;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.dish-photo {
+    width: 750px;
+    margin: 0 auto;
+}
+
+.recipe-pic {
+    width: 750px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.main-photo {
+    width: 800px;
+    margin: 30px 0px;
+}
+
+.main-pic {
+    width: 750px;
+    height: 500px;
+    border-radius: 20px;
+}
